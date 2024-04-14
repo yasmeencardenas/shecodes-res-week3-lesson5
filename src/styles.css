@@ -1,4 +1,15 @@
-h1 {
+body {
+    background-color: #f8e8a6;
+}
+
+h1, p {
     text-align: center;
-    background-color: yellow;
+}
+
+footer {
+    text-align: center;
+}
+
+footer a {
+    margin: 0 10px;
 }
